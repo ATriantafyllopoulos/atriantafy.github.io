@@ -11,35 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computation, , Technical University of Munich, 2025 (expected)
+* M.Sc. (Dipl.-Ing.) in Electrical & Computer Engineering, University of Patras, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* \[2023 -     \]: Research Assistant (CHI, Technical University of Munich)
+* \[2021 - 2023\]: Research Assistant (EIHW, University of Augsburg)
+* \[2018 - 2021\]: AI Researcher (audEERING)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -61,4 +41,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Reviewing for INTERSPEECH, ICASSP, TAFFC, JBHI, and others.
